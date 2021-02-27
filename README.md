@@ -9,3 +9,6 @@ Part 2
 
 Part 3
 - Model building with Outlier Removal and Feature Selection.
+
+Part 4
+- Model building with Outlier Removal, Standarization, and Feature Selection.

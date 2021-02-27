@@ -5,4 +5,7 @@ Part 1
 - Model building without data preprocessing, feature engineering, and feature selection.
 
 Part 2
-- Model building with Feature Selection without data preprocessing and feature engineering.
+- Model building with Feature Selection.
+
+Part 3
+- Model building with Outlier Removal and Feature Selection.

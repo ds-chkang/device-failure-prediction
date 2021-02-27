@@ -1,4 +1,4 @@
-# predictive-models
+# Device Failure Predictive Models
 The purpose of this project is to show the ways of improving a predictive model with an imbalanced dataset.
 
 Part 1
